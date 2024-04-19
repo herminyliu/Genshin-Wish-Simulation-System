@@ -1,0 +1,9 @@
+﻿  源.c
+D:\学习\时间较久的文件\C Project\原神抽卡模拟系统\Yuanshen1.2\源.c(46,31): warning C4020: “juese”: 实参太多
+D:\学习\时间较久的文件\C Project\原神抽卡模拟系统\Yuanshen1.2\源.c(50,28): warning C4020: “changzhu”: 实参太多
+D:\学习\时间较久的文件\C Project\原神抽卡模拟系统\Yuanshen1.2\源.c(108,1): warning C4029: 声明的形参表不同于定义
+D:\学习\时间较久的文件\C Project\原神抽卡模拟系统\Yuanshen1.2\源.c(118,19): warning C4020: “fivestars”: 实参太多
+D:\学习\时间较久的文件\C Project\原神抽卡模拟系统\Yuanshen1.2\源.c(324,1): warning C4029: 声明的形参表不同于定义
+D:\学习\时间较久的文件\C Project\原神抽卡模拟系统\Yuanshen1.2\源.c(237): warning C4715: “judgefourbaodi9”: 不是所有的控件路径都返回值
+D:\学习\时间较久的文件\C Project\原神抽卡模拟系统\Yuanshen1.2\源.c(214): warning C4715: “judge”: 不是所有的控件路径都返回值
+  Yuanshen1.2.vcxproj -> D:\学习\时间较久的文件\C Project\原神抽卡模拟系统\Debug\Yuanshen1.2.exe
